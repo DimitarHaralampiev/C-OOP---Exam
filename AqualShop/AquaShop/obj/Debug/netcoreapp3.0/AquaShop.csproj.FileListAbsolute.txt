@@ -1,0 +1,13 @@
+C:\Users\HP\Downloads\01. Structure_Skeleton (3)\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.exe
+C:\Users\HP\Downloads\01. Structure_Skeleton (3)\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.deps.json
+C:\Users\HP\Downloads\01. Structure_Skeleton (3)\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.json
+C:\Users\HP\Downloads\01. Structure_Skeleton (3)\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.dev.json
+C:\Users\HP\Downloads\01. Structure_Skeleton (3)\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.dll
+C:\Users\HP\Downloads\01. Structure_Skeleton (3)\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Users\HP\Downloads\01. Structure_Skeleton (3)\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\01. Structure_Skeleton (3)\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\01. Structure_Skeleton (3)\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfo.cs
+C:\Users\HP\Downloads\01. Structure_Skeleton (3)\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.dll
+C:\Users\HP\Downloads\01. Structure_Skeleton (3)\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Users\HP\Downloads\01. Structure_Skeleton (3)\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.genruntimeconfig.cache
+C:\Users\HP\Downloads\01. Structure_Skeleton (3)\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csprojAssemblyReference.cache

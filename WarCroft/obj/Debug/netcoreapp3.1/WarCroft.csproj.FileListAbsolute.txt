@@ -1,0 +1,12 @@
+C:\Users\HP\Downloads\01. Structure_Skeleton (4)\bin\Debug\netcoreapp3.1\WarCroft.exe
+C:\Users\HP\Downloads\01. Structure_Skeleton (4)\bin\Debug\netcoreapp3.1\WarCroft.deps.json
+C:\Users\HP\Downloads\01. Structure_Skeleton (4)\bin\Debug\netcoreapp3.1\WarCroft.runtimeconfig.json
+C:\Users\HP\Downloads\01. Structure_Skeleton (4)\bin\Debug\netcoreapp3.1\WarCroft.runtimeconfig.dev.json
+C:\Users\HP\Downloads\01. Structure_Skeleton (4)\bin\Debug\netcoreapp3.1\WarCroft.dll
+C:\Users\HP\Downloads\01. Structure_Skeleton (4)\bin\Debug\netcoreapp3.1\WarCroft.pdb
+C:\Users\HP\Downloads\01. Structure_Skeleton (4)\obj\Debug\netcoreapp3.1\WarCroft.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\01. Structure_Skeleton (4)\obj\Debug\netcoreapp3.1\WarCroft.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\01. Structure_Skeleton (4)\obj\Debug\netcoreapp3.1\WarCroft.AssemblyInfo.cs
+C:\Users\HP\Downloads\01. Structure_Skeleton (4)\obj\Debug\netcoreapp3.1\WarCroft.dll
+C:\Users\HP\Downloads\01. Structure_Skeleton (4)\obj\Debug\netcoreapp3.1\WarCroft.pdb
+C:\Users\HP\Downloads\01. Structure_Skeleton (4)\obj\Debug\netcoreapp3.1\WarCroft.genruntimeconfig.cache
